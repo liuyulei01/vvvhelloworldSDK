@@ -1,0 +1,22 @@
+{
+  "name": "vvvhelloworldSDK",
+  "version": "0.1.0",
+  "summary": "A short description of vvvhelloworldSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liuyulei/vvvhelloworldSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liuyulei": "liuyulei@qiyi.com"
+  },
+  "source": {
+    "git": "https://github.com/liuyulei/vvvhelloworldSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "vvvhelloworldSDK/Classes/**/*"
+}

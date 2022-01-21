@@ -1,0 +1,16 @@
+PODS:
+  - vvvhelloworldSDK (0.1.0)
+
+DEPENDENCIES:
+  - vvvhelloworldSDK (from `../`)
+
+EXTERNAL SOURCES:
+  vvvhelloworldSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  vvvhelloworldSDK: bdd1712cd909e55166a33f934eb708804d789abf
+
+PODFILE CHECKSUM: a3a93cf7543a97de05164ecfe49cacaa7e267d1f
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module vvvhelloworldSDK {
+  umbrella header "vvvhelloworldSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
